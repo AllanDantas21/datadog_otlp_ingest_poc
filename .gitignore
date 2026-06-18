@@ -1,0 +1,25 @@
+# Build results
+[Dd]ebug/
+[Dd]ebug-NetCore/
+[Rr]elease/
+[Rr]elease-NetCore/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Lambda publish and package output
+publish/
+*.zip
+
+# Visual Studio / VS Code / Rider cache & user settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
